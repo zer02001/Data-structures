@@ -1,0 +1,7 @@
+﻿  test11pq.cpp
+C:\Users\ali said\Desktop\lab4 (2)\lab4\lab4\Heap.h(40,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ali said\Desktop\lab4 (2)\lab4\lab4\Heap.h(65): message : see reference to class template instantiation 'Heap<DataType,KeyType,Comparator>' being compiled
+C:\Users\ali said\Desktop\lab4 (2)\lab4\lab4\Heap.h(41,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ali said\Desktop\lab4 (2)\lab4\lab4\Heap.cpp(88,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ali said\Desktop\lab4 (2)\lab4\lab4\Heap.cpp(134,1): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  lab4.vcxproj -> C:\Users\ali said\Desktop\lab4 (2)\lab4\lab4\Debug\lab4.exe
